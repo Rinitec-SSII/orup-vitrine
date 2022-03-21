@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /actualites
+Disallow: /mentions.html
+Disallow: /plansite.html
+Sitemap: https://orup-assurance.fr/sitemap.xml
